@@ -11,7 +11,7 @@ Projeto console em C# para simular operações de uma máquina de normas/aritmé
 Abra o terminal na pasta do projeto e execute:
 
 ```bash
-dotnet restore
+dotnet restore   # apenas na primeira vez que for executar o projeto
 dotnet run
 ```
 
